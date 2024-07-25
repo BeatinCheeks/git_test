@@ -4,3 +4,4 @@
 "adding another line of code here big daddys"
 "Okay I think I finally figured it out"
 "This is the last one that I am going to add for this"
+"writing code is actually kind of fun and makes me feel like a hacker"
